@@ -17,7 +17,7 @@ def run():
     pass
 
     # simple_exponential_smoothing, double_exponential_smoothing, triple_exponential_smoothing
-    # run_method1()
+    run_method1()
     # run_method2()
     # run_method3()
     #
@@ -29,7 +29,7 @@ def run():
     # ml_LightGB, ml_RandomForest, ml_LinearReg
     # run_method7()
     # run_method8()
-    run_method9()
+    # run_method9()
 
 
 def main():
